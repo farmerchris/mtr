@@ -582,7 +582,7 @@ int main(int argc, char **argv)
   srand (getpid());
 
   display_detect(&argc, &argv);
-  display_mode = 0;
+  display_mode = 2; // Chris
 
   /* The field options are now in a static array all together,
      but that requires a run-time initialization. */
