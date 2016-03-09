@@ -1,3 +1,8 @@
+NOTE:
+
+This forked version has the default display mode changed to 2, which is just how I most often use it.
+-- Chris
+
 WHAT IS MTR?
 
   mtr combines the functionality of the 'traceroute' and 'ping' programs 
