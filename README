@@ -1,6 +1,10 @@
 NOTE:
 
-This forked version has the default display mode changed to 2, which is just how I most often use it.
+This forked version has the default display mode changed to 2, which is just how I most often use it. 
+Yes, I now realize you can just add this to your .bash_profile: 
+
+`export MTR_OPTIONS=--displaymode=2`
+
 -- Chris
 
 WHAT IS MTR?
